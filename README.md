@@ -8,15 +8,15 @@ alias.upd
 
 annc.all.groups
 
-annc.delete.any
+annc.delete.any = delete any announcement
 
-annc.delete.own
+annc.delete.own  = delete own announcement
 
-annc.new
+annc.new = create new announcement
 
-annc.read
+annc.read = read announcement
 
-annc.read.drafts
+annc.read.drafts 
 
 annc.revise.any
 
@@ -24,13 +24,13 @@ annc.revise.own
 
 asn.all.groups
 
-asn.delete
+asn.delete = delete assignment
 
-asn.grade
+asn.grade = grade assignment
 
-asn.new
+asn.new = create new assignment
 
-asn.read
+asn.read = view assignment
 
 asn.receive.notifications
 
@@ -38,43 +38,43 @@ asn.revise
 
 asn.share.drafts
 
-asn.submit
+asn.submit = submit assignment
 
-assessment.createAssessment
+assessment.createAssessment = create new assessment
 
-assessment.deleteAssessment.any
+assessment.deleteAssessment.any = delete any assessment
 
-assessment.deleteAssessment.own
+assessment.deleteAssessment.own = delete own assessment
 
-assessment.editAssessment.any
+assessment.editAssessment.any = edit any assessment
 
-assessment.editAssessment.own
+assessment.editAssessment.own = edit own assessments
 
-assessment.gradeAssessment.any
+assessment.gradeAssessment.any = grade any assessment
 
-assessment.gradeAssessment.own
+assessment.gradeAssessment.own = grade own assessment
 
-assessment.publishAssessment.any
+assessment.publishAssessment.any = publish any assessment
 
-assessment.publishAssessment.own
+assessment.publishAssessment.own = publish own assessment
 
-assessment.questionpool.copy.own
+assessment.questionpool.copy.own = copy own question pool
 
-assessment.questionpool.create
+assessment.questionpool.create = create new question pool
 
-assessment.questionpool.delete.own
+assessment.questionpool.delete.own = delete own question pool
 
-assessment.questionpool.edit.own
+assessment.questionpool.edit.own = edit own question pool
 
-assessment.submitAssessmentForGrade
+assessment.submitAssessmentForGrade = submit assessment for grading
 
-assessment.takeAssessment
+assessment.takeAssessment = take assessment
 
-assessment.template.create
+assessment.template.create = create assessment template
 
-assessment.template.delete.own
+assessment.template.delete.own = delete own assessment template
 
-assessment.template.edit.own
+assessment.template.edit.own = edit own assessment template
 
 calendar.all.groups
 
